@@ -28,7 +28,7 @@ func ExampleUnicode() {
 	// true
 	// false
 	// true
-	// 张
-	// 2
+	// 24352
+	// 4
 
 }
